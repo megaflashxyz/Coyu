@@ -189,14 +189,12 @@ const Home = () => {
 
             <footer className="bg-white p-10 flex md:flex-row flex-col font-Inter md:px-20 justify-center items-center">
                 <div className="md:w-1/2 flex flex-col">
-                    <span className="text-lg">Made with 💛 by <a href="https://twitter.com/WankhadeRutik" className="font-semibold" target="_blank" rel="noreferrer">Rutik Wankhade</a></span>
-                    <span className="text-lg font-Nunito">checkout <a href="https://rutikwankhade.dev" target="_blank" rel="noreferrer" className="text-purple-400 hover:text-pink-400">more cool stuff</a> I built</span>
+                    <span className="text-lg">Made with 💛 by <a href="https://www.megaflash.xyz" className="font-semibold" target="_blank" rel="noreferrer">MegaFlash XYZ</a></span>
                 </div>
 
                 <div className="md:text-lg text-sm flex flex-wrap  ">
                     <Link to="/faq" className="m-2 hover:font-semibold">📌 How to use</Link>
-                    <a href="https://github.com/rutikwankhade/CoverView" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">⭐ Star on Github</a>
-                    <a href="https://www.buymeacoffee.com/rutikwankhade" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">🥤 Buy me a coffee</a>
+                    <a href="https://www.megaflash.xyz/p/donate.html" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">🥤 Donate</a>
                 </div>
             </footer>
 
