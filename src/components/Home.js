@@ -14,7 +14,6 @@ import step2 from '../assets/images/step2.png'
 import hashnodeLogo from '../assets/images/hashnode-logo.png'
 import devLogo from '../assets/images/dev-logo.png'
 
-import WallOfLove from './walloflove';
 const Home = () => {
 
 
@@ -171,8 +170,6 @@ const Home = () => {
                     </div>
                 </div>
 
-
-                <WallOfLove />
 
                 <div className="md:w-1/2 mx-auto pt-20 p-4">
                     <h2 className="text-5xl text-center font-Anek font-bold text-gray-700 mx-auto">Simple, quick, and easy to use</h2>
