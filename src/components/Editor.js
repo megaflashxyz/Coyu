@@ -8,7 +8,7 @@ import { ImgProvider } from '../utils/ImgContext'
 import Header from "./Header";
 
 const defaultSettings = {
-	title: "Who are the people behind www.megaflash.xyz?",
+	title: "Who are the people behind MegaFlash XYZ?",
 	bgColor: "#ffe9e3",
 	pattern: "",
 	download: "PNG",
