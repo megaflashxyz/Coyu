@@ -8,11 +8,11 @@ import { ImgProvider } from '../utils/ImgContext'
 import Header from "./Header";
 
 const defaultSettings = {
-	title: "How I built my first project with react",
+	title: "Who are the people behind www.megaflash.xyz?",
 	bgColor: "#ffe9e3",
 	pattern: "",
 	download: "PNG",
-	author: 'Rutik Wankhade',
+	author: 'MegaFlash XYZ',
 	icon: { 'label': 'react', 'value': 'react' },
 	devIconOptions: {},
 	font: 'font-Anek',
