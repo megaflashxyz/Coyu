@@ -24,7 +24,7 @@ const Home = () => {
             <div className="text-xl  flex border-b border-gray-100  p-2 md:w-10/12 mx-auto">
                 <div className="flex items-center">
                     <img src={logo} alt="logo" className="w-8 h-8 mx-2" />
-                    <h1 className="font-semibold font-Inter">Coverview</h1>
+                    <h1 className="font-semibold font-Inter">CoverMe</h1>
                 </div>
 
                 <Link to="/editor" className="hover:translate-x-2 duration-300 bg-gray-700 group rounded-xl px-6 text-white md:text-lg text-sm ml-auto mr-4 font-Inter font-semibold p-2">
